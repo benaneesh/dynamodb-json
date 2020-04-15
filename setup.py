@@ -27,7 +27,7 @@ install_requires = [
 ]
 
 setup(
-    name='dynamodb_json',
+    name='dynamodbjson',
     version=__import__('dynamodb_json').__version__,
     packages=find_packages(),
     url='https://github.com/Alonreznik/dynamodb-json',
